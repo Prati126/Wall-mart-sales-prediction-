@@ -1,0 +1,13 @@
+# Core Application Framework
+streamlit
+
+# Data Manipulation & Math
+pandas
+numpy
+
+# Model Loading & Machine Learning
+joblib
+scikit-learn
+
+# Data Visualization
+altair

@@ -1,0 +1,7 @@
+Category,Best_Model,Branch,R2,Adjusted_R2,Target_90pct
+Health and beauty,Lasso,,0.9226611900356926,,True
+Electronic accessories,BranchAwareWeeklyRidge,,0.9116575554289353,,True
+Home and lifestyle,Elastic Net,,0.9854585957386955,,True
+Sports and travel,Linear Reg,,0.9778502516461262,,True
+Food and beverages,BranchAwareDailyRF,,0.9783780463008213,,True
+Fashion accessories,Linear Reg,,0.9714799414511307,,True
